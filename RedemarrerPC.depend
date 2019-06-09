@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1410791268 source:c:\users\allambert\desktop\redemarrerpc\redemarrerpc\main.cpp
+	"redemarrerPC.h"
+	<iostream>
+
+1410790882 c:\users\allambert\desktop\redemarrerpc\redemarrerpc\redemarrerpc.h
+
+1410787668 source:g:\nouveau dossier (37)\sauvegardes\@ redemarre ton pc\redemarrerpc\main.cpp
+	"redemarrerPC.h"
+	<iostream>
+
+1410787282 g:\nouveau dossier (37)\sauvegardes\@ redemarre ton pc\redemarrerpc\redemarrerpc.h
+
+1410788008 source:g:\nouveau dossier (37)\sauvegardes\@ redemarre ton pc\redemarrerpc\redemarrerpc.cpp
+	"redemarrerPC.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<iostream>
+
